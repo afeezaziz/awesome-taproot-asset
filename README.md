@@ -63,7 +63,7 @@ To be updated.
 
 *List of all awesome lists that I maintain*
 
-* [Awesome Taproot Assets](https://github.com/afeezaziz/awesome-taproot-asset)
+* [Awesome RGB](https://github.com/afeezaziz/awesome-rgb)
 * [Awesome AI](https://github.com/afeezaziz/awesome-ai)
 
 # Contributing
