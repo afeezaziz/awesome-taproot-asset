@@ -46,7 +46,7 @@ To be updated.
 
 ## Social Media
 
-    * [Taproot Asset Telegram](https://t.me/LNTaprootAsset) - Taproot Asset Telegram group
+* [Taproot Asset Telegram](https://t.me/LNTaprootAsset) - Taproot Asset Telegram group
 
 ## Influencers
 
