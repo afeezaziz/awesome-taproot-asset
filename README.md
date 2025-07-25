@@ -21,22 +21,19 @@ An opinionated list of everything awesome about Taproot Asset.
 
 * Wallet
     * [UXUY](https://uxuy.com/) - UXUY is a smart exchange protocol, powering the fastest and most accessible on-chain trading experience for mass adoption.
-    * [Tree Root](https://treeroot.xyz)
-    * [LNbits Taproot Assets Extension](https://github.com/echennells/taproot_assets)
+    * [Tree Root](https://treeroot.xyz) - Fastest, cheapest, easiest way to trade Taproot Asset
+    * [LNbits Taproot Assets Extension](https://github.com/echennells/taproot_assets) - The Taproot Assets extension for LNbits provides integration with the Taproot Assets Protocol
 * Trading Platform
     * [UXUY](https://uxuy.com/) - UXUY is a smart exchange protocol, powering the fastest and most accessible on-chain trading experience for mass adoption.
-    * [Tree Root](https://treeroot.xyz)
+    * [Tree Root](https://treeroot.xyz) - Fastest, cheapest, easiest way to trade Taproot Asset
     * [LNFI](https://lnfi.network/) - An all-in-one financial layer for Taproot + RGB Assets
 * Cloud Service
-    * [Voltage](https://voltage.cloud/)
+    * [Voltage](https://voltage.cloud/) - Global Lightning payments platform
 * Explorer
-    * [Taproot Assets Explorer by Rollo](https://explorer.royllo.org/)
-    * [TapasIndex](https://www.tapasindex.com/)
-    * [Universe Taproot Assets by Lightning Labs](https://terminal.lightning.engineering/assets/mainnet/index.html)
-    * [Universe Taproot Assets by UXUY](https://uxuy.com/taproot)
-    * [Universe Taproot Assets by Tiramisu wallet](https://universe.tiramisuwallet.com)
-    * [Taproot Assets Explorer by Megalithic](https://megalithic.me/taproot_assets_explorer)
-    * [Tree Root](https://treeroot.xyz)
+    * [Lightning Labs](https://terminal.lightning.engineering/assets/mainnet/index.html)
+    * [UXUY](https://uxuy.com/taproot)  - UXUY is a smart exchange protocol, powering the fastest and most accessible on-chain trading experience for mass adoption.
+    * [Megalithic](https://megalithic.me/taproot_assets_explorer) - Supporter of Taproot Asset explorer
+    * [Tree Root](https://treeroot.xyz) - Fastest, cheapest, easiest way to trade Taproot Asset
 
  
 ## Projects
@@ -57,7 +54,7 @@ To be updated.
 
 ## Website
 
-To be updated.
+*List of all websites related to Taproot Asset e.g. Documentation*
 
 # Awesome lists
 
