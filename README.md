@@ -6,9 +6,8 @@ An opinionated list of everything awesome about Taproot Asset.
 - [How It Works](#how-it-works)
 - [Architecture](#architecture)
 - [Organizations](#organizations)
-- [Awesome Taproot Asset](#awesome-taproot-asset)
-    - [Platforms](#platforms)
-    - [Projects](#projects)
+- [Platforms](#platforms)
+- [Projects](#projects)
 - [Resources](#resources)
     - [Social Media](#social-media)
     - [Influencers](#influencers)
@@ -79,6 +78,7 @@ While Lightning Labs is a for-profit entity backed by prominent venture capital 
 *   **Asset Issuers:** Companies and organizations that wish to issue stablecoins, securities, or other digital assets must choose to build on Taproot Assets, making them key stakeholders in the ecosystem.
 
 In summary, while Lightning Labs is the central architect and driving force, it is strategically fostering an open ecosystem where the entire Bitcoin community can participate in building the future of finance on Bitcoin.
+
 ---
 
 ## Platforms
@@ -118,7 +118,7 @@ To be updated.
 
 *None*
 
-## Website
+## Websites
 
 *List of all websites related to Taproot Asset e.g. Documentation*
 
